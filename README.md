@@ -43,6 +43,11 @@
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
 </a>
 
+<!-- Framer Motion -->
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="framer-motion" width="40" height="40"/>
+</a>
+
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -73,10 +78,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
 
-<!-- Framer Motion -->
-<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="framer-motion" width="40" height="40"/>
-</a>
+
+
 
 <!-- IoT -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
