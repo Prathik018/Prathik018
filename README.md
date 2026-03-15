@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathik</h1>
+<h1 align="Left">Hi 👋, I'm Prathik</h1>
 <h3 align="justify">Engineer passionate about solving real-world problems through thoughtful design and scalable frontend engineering crafting interfaces that are fast, intuitive, and purposeful.</h3>
 
 - 🔭 I’m currently working on [LumenUI](https://github.com/Prathik018/LumenUI)
