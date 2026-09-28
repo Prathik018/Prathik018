@@ -1,25 +1,49 @@
 <h1>Hi 👋, I'm Prathik</h1>
 
 <p>
-Engineer passionate about solving real-world problems through thoughtful design and scalable frontend engineering.
-Crafting interfaces that are fast, intuitive, and purposeful.
+I build ideas into products. I create accessible, responsive, and production-ready web applications across the stack. I focus on thoughtful UI, clean engineering, and solving real problems.
 </p>
 
 <p>
-🔭 Working on <a href="https://github.com/Prathik018/LumenUI"><b>LumenUI</b></a><br/>
-🌐 Portfolio: <a href="https://prathik-pai.vercel.app/"><b>prathik-pai.vercel.app</b></a><br/>
-📫 Email: <b>prathikvpai@gmail.com</b>
+<a href="https://prathik-pai.vercel.app/">Portfolio</a> ·
+<a href="mailto:prathikvpai@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/prathikpai18">LinkedIn</a> ·
+<a href="https://substack.com/@prathikpai">substack</a> ·
+<a href="https://X.com/Prathik__Pai">X</a> · 
+<a href="https://discord.com/users/827233263629107211">Discord</a> 
+
+
+
+
+
 </p>
 
 ---
 
-<h3>Connect with me</h3>
+<h3>Things I've Built</h3>
 
 <p>
-<a href="https://twitter.com/prathik__pai"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-<a href="https://linkedin.com/in/prathikpai18"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-<a href="https://instagram.com/prathikk.pai"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-<a href="https://medium.com/@prathikvpai"><img src="https://skillicons.dev/icons?i=devto" height="30"/></a>
+<b>✨ <a href="https://github.com/Prathik018/LumenUI">LumenUI</a></b><br/>
+A modern React UI component library with reusable, responsive, and animated components.
+</p>
+
+<p>
+<b>🧭 <a href="https://github.com/Prathik018/Pathwise">Pathwise</a></b><br/>
+A full-stack AI-powered career platform with an AI resume builder, cover letter generator, mock interviews, and career insights.
+</p>
+
+<p>
+<b>🗺️ <a href="https://github.com/Prathik018/IntelliMap">IntelliMap</a></b><br/>
+An AI-powered platform that converts documents into interactive mind maps and concise summaries.
+</p>
+
+<p>
+<b>🧩 <a href="https://github.com/Prathik018/Structo">Structo</a></b><br/>
+A fast JSON workspace for validating, visualizing, and exploring complex JSON data.
+</p>
+
+<p>
+<a href="https://prathik-pai.vercel.app/projects"><b>View all projects →</b></a>
 </p>
 
 ---
@@ -27,27 +51,38 @@ Crafting interfaces that are fast, intuitive, and purposeful.
 <h3>Tech Stack</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,css,tailwind,figma,ts" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 </p>
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,prisma,python" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Shadcn_UI-black?style=flat"/>
+<img src="https://img.shields.io/badge/Motion-black?style=flat"/>
+<img src="https://img.shields.io/badge/REST_APIs-black?style=flat"/>
+</p>
 
 <h3>Tools & Platforms</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,github,vscode,arduino,python,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Bun-black?style=flat"/>
+<img src="https://img.shields.io/badge/Resend-black?style=flat"/>
 </p>
 
 ---
 
-<h3>Others</h3>
+<h3>Connect</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Shadcn_UI-black?style=flat"/>
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=flat"/>
-<img src="https://img.shields.io/badge/Clerk-black?style=flat"/>
-<img src="https://img.shields.io/badge/Bun-black?style=flat"/>
-<img src="https://img.shields.io/badge/Cursor-black?style=flat"/>
-<img src="https://img.shields.io/badge/npm-black?style=flat"/>
-<img src="https://img.shields.io/badge/IoT-black?style=flat"/>
+<a href="https://linkedin.com/in/prathikpai18">LinkedIn</a> ·
+<a href="https://twitter.com/prathik__pai">X</a> ·
+<a href="https://instagram.com/prathikk.pai">Instagram</a> ·
+<a href="https://substack.com/@prathikpai">substack</a> ·
+<a href="https://discord.com/users/827233263629107211">Discord</a> 
 </p>
